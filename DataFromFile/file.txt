@@ -1,0 +1,25 @@
+Network Working Group                                           E. Wilde
+Request for Comments: 5147                                   UC Berkeley
+Updates: 2046                                                  M. Duerst
+Category: Standards Track                       Aoyama Gakuin University
+                                                              April 2008
+
+
+         URI Fragment Identifiers for the text/plain Media Type
+
+Status of This Memo
+
+   This document specifies an Internet standards track protocol for the
+   Internet community, and requests discussion and suggestions for
+   improvements.  Please refer to the current edition of the "Internet
+   Official Protocol Standards" (STD 1) for the standardization state
+   and status of this protocol.  Distribution of this memo is unlimited.
+
+Abstract
+
+   This memo defines URI fragment identifiers for text/plain MIME
+   entities.  These fragment identifiers make it possible to refer to
+   parts of a text/plain MIME entity, either identified by character
+   position or range, or by line position or range.  Fragment
+   identifiers may also contain information for integrity checks to make
+   them more robust.

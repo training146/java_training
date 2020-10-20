@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96f90cf4-11c1-42dd-a3cb-449af6fafba9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1j9cNjTWuu3Hhscz5vjfkcNtFzx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="UploadingDataFile" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96f90cf4-11c1-42dd-a3cb-449af6fafba9" name="Default Changelist" comment="" />
+      <created>1603219709084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603219709084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603220948855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603220948855" />
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1603221778690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603221778690" />
+    <state width="949" height="277" key="GridCell.Tab.0.bottom" timestamp="1603229889947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889947" />
+    <state width="949" height="277" key="GridCell.Tab.0.center" timestamp="1603229889946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889946" />
+    <state width="949" height="277" key="GridCell.Tab.0.left" timestamp="1603229889946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889946" />
+    <state width="949" height="277" key="GridCell.Tab.0.right" timestamp="1603229889946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889946" />
+    <state x="690" y="281" width="540" height="487" key="extract.method.dialog" timestamp="1603227563541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="281" width="540" height="487" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603227563541" />
+  </component>
+</project>
