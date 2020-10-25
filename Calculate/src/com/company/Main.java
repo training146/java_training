@@ -9,20 +9,18 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
-        int x, y, z, u;
         Scanner scn = new Scanner(System.in);
         System.out.println("Введите число 1:");
-        x = scn.nextInt();
+        int x = scn.nextInt();
         System.out.println("Введите число 2:");
-        y = scn.nextInt();
+        int y = scn.nextInt();
         System.out.println("Введите число 3:");
-        z = scn.nextInt();
-        u = (x+y+z)/3;
-        System.out.println("Среднее арифметическое чисел:"+u);
-        u = u/2;
-        if (u > 3) {
+        int z = scn.nextInt();
+        double average = (x + y + z) / 3;
+        System.out.println("Среднее арифметическое чисел:" + average);
+        int averageBy2 = (int) Math.round(average / 2);
+        if (averageBy2 > 3) {
             System.out.println("Программа выполнена корректно");
         }
     }

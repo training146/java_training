@@ -16,9 +16,10 @@ public class Main {
         int number = scn.nextInt();
 
         switch (number){
-            case X: System.out.println ("Данное значение имеется в константах"); break;
-            case Y: System.out.println ("Данное значение имеется в константах"); break;
-            case Z: System.out.println ("Данное значение имеется в константах"); break;
+            case X:
+            case Z:
+            case Y:
+                System.out.println ("Данное значение имеется в константах"); break;
             default: System.out.println("Такой константы нет!");
         }
     }

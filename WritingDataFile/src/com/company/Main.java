@@ -8,17 +8,15 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-        String sLine;
+        String sLine = "";
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Для окончания записи в файл введите \"стоп\"");
         try (FileWriter fw = new FileWriter("file.txt")) {
-            do {
+            while (sLine.compareTo("стоп") != 0) {
                 System.out.print(": ");
                 sLine = br.readLine();
-                if (sLine.compareTo("стоп") == 0) break;
-                sLine = sLine + "\r\n";
-                fw.write(sLine);
-            } while (sLine.compareTo("стоп") != 0);
+                if (sLine.compareTo("стоп") != 0) fw.write(sLine + "\r\n");
+            }
         } catch (IOException ex) {
             System.out.println("Ошибка ввода вывода: " + ex);
         }

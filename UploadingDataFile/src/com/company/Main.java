@@ -26,19 +26,15 @@ public class Main {
         writingFile(line, iLine);
     }
     public static void writingFile(String sLine, int limit){
-        int i = 0;
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
             try (BufferedWriter writter = new BufferedWriter(new FileWriter("File.txt"))) {
-                while (!(sLine = reader.readLine()).equals("стоп")) {
-                    i++;
+                for (int i = 1; i <= limit ; i++){
+                    sLine = reader.readLine();
                     if (i < limit){
-                        sLine = sLine + "\r\n";
-                    }
-                    if (i == limit) {
+                        writter.write(sLine + "\r\n");
+                    } else {
                         writter.write(sLine);
-                        break;
                     }
-                    writter.write(sLine);
                 }
             }
         } catch (IOException ex) {

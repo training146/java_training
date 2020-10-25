@@ -55,29 +55,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603220948855" />
-    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1603221778690">
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1603623703788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603221778690" />
-    <state width="949" height="277" key="GridCell.Tab.0.bottom" timestamp="1603229889947">
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603623703788" />
+    <state width="949" height="277" key="GridCell.Tab.0.bottom" timestamp="1603629446165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889947" />
-    <state width="949" height="277" key="GridCell.Tab.0.center" timestamp="1603229889946">
+    <state width="949" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603629446165" />
+    <state width="949" height="277" key="GridCell.Tab.0.center" timestamp="1603629446165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889946" />
-    <state width="949" height="277" key="GridCell.Tab.0.left" timestamp="1603229889946">
+    <state width="949" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603629446165" />
+    <state width="949" height="277" key="GridCell.Tab.0.left" timestamp="1603629446165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889946" />
-    <state width="949" height="277" key="GridCell.Tab.0.right" timestamp="1603229889946">
+    <state width="949" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603629446165" />
+    <state width="949" height="277" key="GridCell.Tab.0.right" timestamp="1603629446165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603229889946" />
+    <state width="949" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603629446165" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1603623373478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603623373478" />
     <state x="690" y="281" width="540" height="487" key="extract.method.dialog" timestamp="1603227563541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="281" width="540" height="487" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603227563541" />
+    <state x="668" y="153" key="refactoring.ChangeSignatureDialog" timestamp="1603623680478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="153" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603623680478" />
   </component>
 </project>

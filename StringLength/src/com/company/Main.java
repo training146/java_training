@@ -17,11 +17,10 @@ public class Main {
         int l2 = s2.length();
         if (l1 > l2){
             System.out.println( "Строка \""+ s1 +"\" длинее.");
-        }
-        if (l1 < l2){
+        } else if (l1 < l2){
             System.out.println( "Строка \""+ s2 +"\" длинее.");
         }
-        if (l1 == l2){
+        else {
             System.out.println( "Строки \""+ s1 +"\" и \""+ s2 +"\" равны.");
         }
     }
